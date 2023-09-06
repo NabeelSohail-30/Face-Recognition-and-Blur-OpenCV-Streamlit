@@ -1,0 +1,1 @@
+Build an app that uses OpenCV to detect faces in uploaded images and then allows users to blur or anonymize those detected faces interactively using Streamlit.
